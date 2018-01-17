@@ -1,0 +1,82 @@
+(lp0
+(i__main__
+Task
+p1
+(dp2
+S'priority'
+p3
+I0
+sS'name'
+p4
+VEstudiar aleman (Video-Thema 1)
+p5
+sS'timeDuration'
+p6
+I30
+sba(i__main__
+Task
+p7
+(dp8
+g3
+I0
+sg4
+VEscoger y cotizar elementos para sistema de riego
+p9
+sg6
+I30
+sba(i__main__
+Task
+p10
+(dp11
+g3
+I2
+sg4
+VFormulario Beca EU4M
+p12
+sg6
+I30
+sba(i__main__
+Task
+p13
+(dp14
+g3
+I2
+sg4
+VAplicación Android SmartCrops
+p15
+sg6
+I60
+sba(i__main__
+Task
+p16
+(dp17
+g3
+I2
+sg4
+VEstudiar aleman 2 (Video Thema Repaso)
+p18
+sg6
+I60
+sba(i__main__
+Task
+p19
+(dp20
+g3
+I2
+sg4
+VRevision Universidades Alemania
+p21
+sg6
+I60
+sba(i__main__
+Task
+p22
+(dp23
+g3
+I2
+sg4
+VAplicación Python SmartCrops
+p24
+sg6
+I60
+sba.

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=SmartTasks
+Exec=python /home/ericfab17/Spyder Workspace/SmartTasks/smartTasksEngine.py
+Type=Application
